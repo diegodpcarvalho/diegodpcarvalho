@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegodpcarvalho
-- 👀 I’m interested in React, phyton.
+- 👀 I’m interested in node.js, c#, phyton.
 - 🌱 I’m currently learning pentest
 - 📫  Email => diegodpcarvalho@gmail.com
 
